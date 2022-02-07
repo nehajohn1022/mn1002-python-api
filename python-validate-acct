@@ -1,0 +1,11 @@
+def validate-act(account-id);
+
+if type(accountid) = =int:
+return 'valid account,account must not have alphabets or special characters'
+
+else:
+return false
+
+print(alidate-act("sachin", "tendulkar"))
+
+print(alidate-act("sachin", "tendulkar"))
