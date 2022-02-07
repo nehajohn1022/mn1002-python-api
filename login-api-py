@@ -1,0 +1,10 @@
+def login(username, pwd):
+
+if user name = pwd:
+return == true
+else:
+return false
+
+print(login("sachin", "tendulkar"))
+
+print(login("sachin", "tendulkar"))
